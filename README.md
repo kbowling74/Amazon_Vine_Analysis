@@ -11,11 +11,9 @@ The dataset used for this analysis was based on pet products reviews from Vine a
 <br>
 - The number of 5 star reviews was 65 for Vine members and 20,612 for non-Vine members. <br><br>
 ![Screen Shot 2022-10-02 at 3 30 54 PM](https://user-images.githubusercontent.com/106560606/193698449-380fcbc6-cd41-4b8b-a0c7-576c5b49e312.png)
-
 <br>
 - After completing the analysis it showed that 38.24% of Vine reviews were 5 stars while 54.47% of non-Vine reviews were 5 stars. <br><br>
 ![Screen Shot 2022-10-02 at 3 36 53 PM](https://user-images.githubusercontent.com/106560606/193698474-174b40d2-942c-44a7-95a8-9684d44ec8be.png)
-
 <br>
 
 ### Summary
